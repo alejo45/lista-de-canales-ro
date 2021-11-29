@@ -1,0 +1,27 @@
+#EXTM3U
+ #EXTINF:-1 ,CANAL1
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 ,CANAL2
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 ,CANAL3
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 ,CANAL4
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 ,CANAL5
+http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
+#EXTINF:-1 ,CANAL6
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 ,CANAL7
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 ,CANAL8
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 ,CANAL9
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 ,CANAL10
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 ,CANAL11
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:-1 ,CANAL12
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 ,CANAL13
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
